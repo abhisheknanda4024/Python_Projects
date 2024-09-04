@@ -1,0 +1,18 @@
+Here's a suggested description for your PDF analyzing chatbot project:
+PDF Analyzer Chatbot
+This project is a web application that allows users to upload a PDF document and 
+then ask questions about the content of that PDF. 
+The key features of this project include:
+
+PDF File Upload: Users can upload a PDF file to the web application using a simple file upload button.
+
+PDF Content Scanning: Once the PDF file is uploaded, the application scans and processes the 
+entire document to extract its content and prepare it for the question-answering functionality.
+
+Searchable Question Input: After the PDF is uploaded, a search bar appears where users can type in their questions about the PDF content.
+
+Localized Answers: The application uses natural language processing to analyze the user's question 
+and then provide an approximate answer based solely on the information contained within the uploaded PDF file, without searching the internet.
+
+This project is designed to be a useful tool for students, researchers, or anyone who needs to quickly find information within a PDF document.
+By leveraging the power of AI and natural language processing, the PDF Analyzer Chatbot can save users time and effort in extracting relevant details from lengthy PDF files.
