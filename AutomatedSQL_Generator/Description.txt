@@ -1,0 +1,12 @@
+Automated SQL Generator
+Automated SQL Generator is a powerful tool that simplifies the process of interacting with SQL databases. Key features:
+
+Seamless Database Integration: The tool connects directly to your SQL database, allowing you to access and manipulate data with ease.
+Intelligent Table Analysis: It automatically analyzes the structure and content of your database tables, providing you with a deep understanding of your data.
+Natural Language Search: Users can simply type their desired SQL command into the search bar, and the tool will generate the appropriate SQL query.
+Instant Query Execution: Once the SQL query is generated, the tool executes it against your database and displays the results, saving you time and effort.
+User-Friendly Interface: The project boasts a clean and intuitive interface, making it accessible to users of all skill levels.
+
+This project is designed to streamline the process of interacting with SQL databases,
+empowering developers, analysts, and data enthusiasts to work with their data more efficiently.
+Whether you're building a web application, analyzing business metrics, or simply exploring a database, the Automated SQL Generator can be a valuable asset in your toolbox.
